@@ -38,6 +38,10 @@ Here are some related projects
 
 ## Screenshots
 
-Finished Component
+Desktop Screenshot
 
-<img src="./screenshots/finished-screenshot.png" alt="Finished App Screenshot" width="500">
+<img src="./screenshots/desktop-screenshot.png" alt="Desktop Screenshot" width="500">
+
+Mobile Screenshot
+
+<img src="./screenshots/mobile-screenshot.png" alt="Mobile Screenshot" width="500" height="500">
