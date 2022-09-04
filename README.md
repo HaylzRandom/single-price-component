@@ -44,4 +44,4 @@ Desktop Screenshot
 
 Mobile Screenshot
 
-<img src="./screenshots/mobile-screenshot.png" alt="Mobile Screenshot" width="500" height="500">
+<img src="./screenshots/mobile-screenshot.png" alt="Mobile Screenshot" width="500">
